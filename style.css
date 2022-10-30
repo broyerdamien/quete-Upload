@@ -1,0 +1,18 @@
+h1 {
+    background-color: lightskyblue;
+}
+
+
+.info {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.adress {
+    display: flex;
+}
+
+.ordre {
+    display: flex;
+}
